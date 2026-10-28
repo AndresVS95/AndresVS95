@@ -2,8 +2,9 @@
 
 **Software Developer · IoT & AI Enthusiast**
 
-Estudiante de Ingeniería / Desarrollo de Software construyendo soluciones desde Popayán, Colombia.  
-Trabajo en la intersección entre desarrollo web, hardware/IoT y despliegue de soluciones prácticas — enfocado en crear sistemas funcionales, eficientes y bien estructurados.
+Estudiante de Ingeniería Informática / Desarrollo de Software construyendo soluciones desde Popayán, Colombia.
+(de ultimo semestre)
+Trabajo en la intersección entre desarrollo web, hardware/IoT, contenedores y despliegue de soluciones prácticas — enfocado en crear sistemas funcionales, eficientes y bien estructurados.
 
 ---
 
